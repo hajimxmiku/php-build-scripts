@@ -1,9 +1,9 @@
 #!/bin/bash
 
-CHANNEL="stable"
-BRANCH="master"
-NAME="PocketMine-MP"
-BUILD_URL=""
+CHANNEL= "stable"
+BRANCH= "master"
+NAME= "PocketMine-MP"
+BUILD_URL= ""
 
 LINUX_32_BUILD="PHP_7.0.3_x86_Linux"
 LINUX_64_BUILD="PHP_7.0.3_x86-64_Linux"
